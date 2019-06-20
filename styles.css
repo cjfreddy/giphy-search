@@ -1,0 +1,16 @@
+#content {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin: 10px;
+    height: 150px;
+}
